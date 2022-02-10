@@ -1,0 +1,10 @@
+{
+  "emulators": {
+    "firestore": {
+      "port": 3010
+    },
+    "ui": {
+      "enabled": false
+    }
+  }
+}
